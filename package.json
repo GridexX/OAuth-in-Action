@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "consolidate": "^0.13.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.1",
+    "nosql": "^3.0.3",
+    "qs": "^4.0.0",
+    "sync-request": "^2.0.1",
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.1.1",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "node client.js"
+  },
+  "author": {
+    "name": "Arsène Fougerouse",
+    "email": "arsene582@gmail.com"
+  },
+  "license": "MIT",
+  "name": "oauth-in-action",
+  "version": "1.0.0",
+  "description": "OAuth in Action",
+  "main": "client.js"
+}
